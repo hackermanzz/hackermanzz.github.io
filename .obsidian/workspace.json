@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_featured_categories/example.md",
+                "file": "_featured_categories/YoYO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_featured_categories/example.md",
+                "file": "_featured_categories/YoYO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_featured_categories/example.md",
+                "file": "_featured_categories/YoYO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_featured_categories/example.md"
+                "file": "_featured_categories/YoYO.md"
               }
             }
           }
@@ -157,6 +157,6 @@
     "example/_posts/2024-09-08-yes.md",
     "_includes/table.md",
     "_includes/features.md",
-    "_featured_categories/example.md"
+    "_featured_categories/YoYO.md"
   ]
 }
